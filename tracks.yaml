@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:ros2-gbp/python_qt_binding-release.git
+release_repo_url: git@github.com:tgenovese/python_qt_binding-release.git
 tracks:
   crystal:
     actions:
